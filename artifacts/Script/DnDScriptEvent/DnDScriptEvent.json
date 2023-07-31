@@ -1,0 +1,20 @@
+{
+	"id": "d4cc5a30-772f-ee11-907e-000d3a661202",
+	"createdAt": "2023-07-31T07:52:26.426Z",
+	"createdBy": "terry.avgenikou@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "DnDScriptEvent",
+	"ver": "23.7.31.810",
+	"description": null,
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "27c50e1d-772f-ee11-907e-000d3a661202",
+	"package": "bfa174f9-0d27-ee11-907e-000d3a661202"
+}
