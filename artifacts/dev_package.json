@@ -5,22 +5,28 @@
 	"git": {
 		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-drag-n-drop.git"
 	},
-	"name": "DnD",
+	"name": "neptunesoftware-dxp-abb-drag-n-drop",
 	"description": null,
-	"ver": "23.7.31.1010",
+	"ver": "24.06.27.1455",
 	"enableCICD": true,
 	"apps": [
 		{
 			"id": "c2a40aaa-2d22-ee11-a9bb-000d3ada9c9b",
 			"application": "dragndrop",
 			"title": "",
-			"description": ""
+			"description": "",
+			"package": {
+				"id": "bfa174f9-0d27-ee11-907e-000d3a661202"
+			}
 		},
 		{
 			"id": "25f2ee9f-4425-ee11-a9bb-000d3ada9c9b",
 			"application": "dragndrop_ordering",
 			"title": "",
-			"description": ""
+			"description": "",
+			"package": {
+				"id": "bfa174f9-0d27-ee11-907e-000d3a661202"
+			}
 		}
 	],
 	"api": [],
@@ -72,18 +78,9 @@
 			"description": null
 		},
 		{
-			"id": "966e1224-4b22-ee11-a9bb-000d3ada9c9b",
+			"id": "39868d2d-4a79-4c8b-9acb-ab34bbde0424",
 			"name": "DnDAppListener",
 			"description": null
-		}
-	],
-	"media_library": [
-		{
-			"id": "B8C9D38C-782F-EE11-907E-000D3A661202",
-			"updatedAt": "2023-07-31T08:02:11.040Z",
-			"name": "DnDMedia",
-			"parent": null,
-			"package": "BFA174F9-0D27-EE11-907E-000D3A661202"
 		}
 	],
 	"code_snippets": [],

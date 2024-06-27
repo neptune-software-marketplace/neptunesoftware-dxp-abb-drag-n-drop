@@ -9,6 +9,7 @@
 	"name": "DnDScriptEvent",
 	"ver": "23.7.31.810",
 	"description": null,
+	"folder": null,
 	"content": "file:///content.js",
 	"useAsGlobalScript": false,
 	"transpiledContent": null,

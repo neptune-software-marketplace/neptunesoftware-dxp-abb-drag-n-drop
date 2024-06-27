@@ -6,7 +6,7 @@
 	"name": "DnDEmail",
 	"description": null,
 	"content": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"><link href=\"https://gtmdemosystem.neptune-software.cloud/public/editor/suneditor.min.css\" rel=\"stylesheet\"></head><body class=\"sun-editor-editable\" style=\"\" ><p>Hi,<br></p><p>&nbsp;Item with name {=note} and id {=name} has moved to production.<br><br>Have a great day!<br><br>Neptune Software AS</p></body></html>",
-	"ver": "23.7.31.754",
+	"ver": "24.06.27.1450",
 	"type": "template",
 	"package": "bfa174f9-0d27-ee11-907e-000d3a661202"
 }
